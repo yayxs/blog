@@ -8,4 +8,10 @@
 
 ### 计算机网络
 
-- [前端为什么要学计算机网络]
+- [前端为什么要学计算机网络](https://github.com/yayxs/blog/issues/1)
+
+### License
+
+MIT license
+
+<img alt="Star the Expo repo on GitHub to support the project" src="https://user-images.githubusercontent.com/9664363/185428788-d762fd5d-97b3-4f59-8db7-f72405be9677.gif" width="50%">

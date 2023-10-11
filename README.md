@@ -7,7 +7,9 @@
 | workspaces         | 使用 pnpm 的 workspaces | https://pnpm.io/zh/workspaces                                                                      |
 
 ### HTML
+- [GitHub .  可以从这些很棒的HTML项目中找到学习的切入点](https://github.com/yayxs/blog/issues/8)
 - [文章 .  视频时代HTML中的`<video>`标签功不可没](https://github.com/yayxs/blog/issues/3)
+  
 ### 计算机网络
 
 - [缘由 .  前端为什么要学计算机网络](https://github.com/yayxs/blog/issues/1)

@@ -16,8 +16,13 @@
 ### Vite
 - [文章 .  Vite上了次生产后的总结](https://github.com/yayxs/blog/issues/5)
 
+### SSG
+Static Site Generator
+- [文章 .  浅谈一下VitePress的使用心得](https://github.com/yayxs/blog/issues/7)
+
 ### Nginx
 - [文章 .  前端了解一下常用Nginx命令及配置](https://github.com/yayxs/blog/issues/4)
+
 
 ### 面试
 

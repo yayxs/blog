@@ -13,6 +13,9 @@
 - [缘由 .  前端为什么要学计算机网络](https://github.com/yayxs/blog/issues/1)
 - [书籍 .  前端学计算机网络推荐看这几本书](https://github.com/yayxs/blog/issues/2)
 
+### Vite
+- [文章 .  Vite上了次生产后的总结](https://github.com/yayxs/blog/issues/5)
+
 ### Nginx
 - [文章 .  前端了解一下常用Nginx命令及配置](https://github.com/yayxs/blog/issues/4)
 

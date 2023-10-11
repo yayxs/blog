@@ -9,6 +9,7 @@
 ### HTML
 - [GitHub .  可以从这些很棒的HTML项目中找到学习的切入点](https://github.com/yayxs/blog/issues/8)
 - [面试 .  HTML常见的面试问题和参考答案_八股文版本](https://github.com/yayxs/blog/issues/9)
+- [面试 .  收集HTML常问的面试问题_列表版本](https://github.com/yayxs/blog/issues/10)
 - [文章 .  视频时代HTML中的`<video>`标签功不可没](https://github.com/yayxs/blog/issues/3)
   
 ### 计算机网络

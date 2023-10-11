@@ -19,6 +19,10 @@
 ### Nginx
 - [文章 .  前端了解一下常用Nginx命令及配置](https://github.com/yayxs/blog/issues/4)
 
+### 面试
+
+- [文章 .  成为一名合格的前端面试官没那么简单](https://github.com/yayxs/blog/issues/6)
+
 ### License
 
 MIT license

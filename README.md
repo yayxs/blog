@@ -41,7 +41,7 @@ Static Site Generator
 ### 公司
 
 - [调研 .  基于umi-nest实现微前端子应用_前期初步设计](https://github.com/yayxs/blog/issues/14)
-
+- [分享 .  记录一次给同事的纯技术分享_从几道题目开始](https://github.com/yayxs/blog/issues/15)
 ### License
 
 MIT license

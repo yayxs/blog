@@ -32,6 +32,7 @@ Static Site Generator
 
 ### Git
 - [指南 .  工作中能用到的Git命令](https://github.com/yayxs/blog/issues/12)
+- [案例 .  Git提交时要注意规范](https://github.com/yayxs/blog/issues/13)
 
 ### 面试
 

@@ -38,6 +38,10 @@ Static Site Generator
 
 - [文章 .  成为一名合格的前端面试官没那么简单](https://github.com/yayxs/blog/issues/6)
 
+### 公司
+
+- [调研 .  基于umi-nest实现微前端子应用_前期初步设计](https://github.com/yayxs/blog/issues/14)
+
 ### License
 
 MIT license

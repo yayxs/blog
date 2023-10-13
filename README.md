@@ -30,6 +30,8 @@ Static Site Generator
 ### Nginx
 - [文章 .  前端了解一下常用Nginx命令及配置](https://github.com/yayxs/blog/issues/4)
 
+### Git
+- [指南 .  工作中能用到的Git命令](https://github.com/yayxs/blog/issues/12)
 
 ### 面试
 

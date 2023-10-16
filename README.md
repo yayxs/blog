@@ -20,6 +20,9 @@
 - [缘由 .  前端为什么要学计算机网络](https://github.com/yayxs/blog/issues/1)
 - [书籍 .  前端学计算机网络推荐看这几本书](https://github.com/yayxs/blog/issues/2)
 
+### 设计模式
+- [文章 .  前端初步认识设计模式_设计模式是什么？](https://github.com/yayxs/blog/issues/16)
+
 ### Vite
 - [文章 .  Vite上了次生产后的总结](https://github.com/yayxs/blog/issues/5)
 

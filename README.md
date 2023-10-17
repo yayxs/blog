@@ -22,6 +22,7 @@
 
 ### 设计模式
 - [文章 .  前端初步认识设计模式_设计模式是什么？](https://github.com/yayxs/blog/issues/16)
+- [教程 .  JavaScript设计模式之构造器模式与工厂模式](https://github.com/yayxs/blog/issues/17)
 
 ### Vite
 - [文章 .  Vite上了次生产后的总结](https://github.com/yayxs/blog/issues/5)

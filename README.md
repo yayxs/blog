@@ -24,6 +24,7 @@
 - [文章 .  前端初步认识设计模式_设计模式是什么？](https://github.com/yayxs/blog/issues/16)
 - [教程 .  JavaScript设计模式之构造器模式与工厂模式](https://github.com/yayxs/blog/issues/17)
 - [教程 .  JavaScript设计模式之单例模式_Vuex以及全局Storage分析](https://github.com/yayxs/blog/issues/18)
+- [教程 .  JavaScript设计模式之原型模式_原型范式](https://github.com/yayxs/blog/issues/19)
 
 
 ### Vite

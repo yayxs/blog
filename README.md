@@ -30,6 +30,9 @@
 - [教程 .  JavaScript设计模式之单例模式_Vuex以及全局Storage分析](https://github.com/yayxs/blog/issues/18)
 - [教程 .  JavaScript设计模式之原型模式_原型范式](https://github.com/yayxs/blog/issues/19)
 
+### packages
+
+- [文章 .  了解pnpm以及workspace](https://github.com/yayxs/blog/issues/21)
 
 ### Vite
 - [文章 .  Vite上了次生产后的总结](https://github.com/yayxs/blog/issues/5)

@@ -37,6 +37,9 @@
 ### Vite
 - [文章 .  Vite上了次生产后的总结](https://github.com/yayxs/blog/issues/5)
 
+### webpack
+- [配置 .  webpack的devtool是值](https://github.com/yayxs/blog/issues/23)
+
 ### SSG
 Static Site Generator
 - [文章 .  浅谈一下VitePress的使用心得](https://github.com/yayxs/blog/issues/7)

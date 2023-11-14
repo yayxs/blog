@@ -12,6 +12,9 @@
 - [面试 .  收集HTML常问的面试问题_列表版本](https://github.com/yayxs/blog/issues/10)
 - [文章 .  视频时代HTML中的`<video>`标签功不可没](https://github.com/yayxs/blog/issues/3)
 
+### JavaScript
+- [API .  string 字符串](https://github.com/yayxs/blog/issues/24)
+  
 ### ECMAScript
 
 - [特性 .  ECMAScript 2023的特性](https://github.com/yayxs/blog/issues/20)

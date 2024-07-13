@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    // ...
+
+    "types": ["unplugin-vue-router/client"]
+  },
+  "include": [
+    "./typed-router.d.ts"
+  ]
+}

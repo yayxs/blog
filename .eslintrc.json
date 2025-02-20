@@ -1,0 +1,27 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "plugin:mdx/recommended"
+  ],
+  "overrides": [
+    {
+      "files": ["*.mdx"],
+      "rules": {
+        "react/jsx-no-undef": "off",
+        "no-unused-expressions": "off",
+        "mdx/remark": [
+          "error",
+          {
+            "plugins": [
+              "remark-gfm",
+              ["remark-lint-list-item-spacing", false]
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "settings": {
+    "mdx/code-blocks": true
+  }
+} 

@@ -50,6 +50,8 @@ export default async function Home() {
                 </div>
                 
                 <div className="mt-4 flex items-center gap-4 text-sm text-gray-600 dark:text-gray-400">
+                  <time>开始写于: {post.frontmatter.createdAt}</time>
+                  <span>•</span>
                   <time>发布于: {post.frontmatter.publishedAt}</time>
                   {post.frontmatter.updatedAt && (
                     <>

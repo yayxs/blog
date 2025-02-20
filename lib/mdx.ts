@@ -2,6 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import { compileMDX } from 'next-mdx-remote/rsc'
 import { components as mdxComponents } from '@/components/mdx-components'
+import type { ReactElement } from 'react'
 
 const postsDirectory = path.join(process.cwd(), 'content/posts')
 
@@ -120,5 +121,5 @@ export type Frontmatter = {
 export type Post = {
   slug: string
   frontmatter: Frontmatter
-  content: string
+  content: ReactElement
 } 

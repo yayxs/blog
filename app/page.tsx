@@ -7,6 +7,7 @@ export default async function Home() {
   return (
     <div className="min-h-screen">
       <main className="max-w-4xl mx-auto px-4 py-12 sm:px-8 sm:py-20">
+        
         <div className="grid gap-4">
           {posts.map((post) => (
             <Link

@@ -15,7 +15,7 @@ const nextConfig: NextConfig = {
   pageExtensions: ['js', 'jsx', 'mdx', 'ts', 'tsx'],
   
   // 开发环境配置
-  webpack: (config: Configuration, { dev, isServer }: { dev: boolean; isServer: boolean }) => {
+  webpack: (config: Configuration, { dev }: { dev: boolean; isServer: boolean }) => {
     if (dev) {
       // 配置 MDX 文件的处理
       config.watchOptions = {

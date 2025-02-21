@@ -1,38 +1,25 @@
 import { getAllPosts } from '@/lib/mdx'
-import { CategoryNav } from '@/components/CategoryNav'
-import { ArticleCard } from '@/components/ArticleCard'
+import Link from 'next/link'
 
 export default async function Home() {
   const posts = await getAllPosts()
-  
-  // 获取所有分类及其文章数量
-  const categories = [
-    {
-      name: 'AI',
-      path: '/ai',
-      label: 'AI',
-      count: posts.filter(post => post.frontmatter.category === 'AI').length
-    }
-  ]
 
   return (
-    <div className="min-h-screen bg-gray-50 dark:bg-gray-950">
+    <div className="min-h-screen">
       <main className="max-w-4xl mx-auto px-4 py-12 sm:px-8 sm:py-20">
-        <CategoryNav categories={categories} />
-        
-        <section>
-          <div className="flex justify-between items-center mb-8">
-            <h2 className="text-3xl font-bold text-gray-900 dark:text-gray-100">
-              最新文章
-            </h2>
-          </div>
-
-          <div className="grid gap-6">
-            {posts.map((post) => (
-              <ArticleCard key={post.slug} post={post} />
-            ))}
-          </div>
-        </section>
+        <div className="grid gap-4">
+          {posts.map((post) => (
+            <Link
+              key={post.slug}
+              href={`/${post.slug}`}
+              className="block p-4 bg-white/80 dark:bg-gray-900/80 backdrop-blur-sm rounded-lg shadow-sm hover:shadow-md transition-all duration-300"
+            >
+              <h3 className="text-lg font-medium text-gray-900 dark:text-gray-100 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300">
+                {post.frontmatter.title}
+              </h3>
+            </Link>
+          ))}
+        </div>
       </main>
     </div>
   )

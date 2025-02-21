@@ -1,7 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import { compileMDX } from 'next-mdx-remote/rsc'
-import { components as mdxComponents } from '@/components/mdx-components'
+import { components as mdxComponents } from '@/components/MdxComponents'
 import type { ReactElement } from 'react'
 
 const postsDirectory = path.join(process.cwd(), 'content/posts')

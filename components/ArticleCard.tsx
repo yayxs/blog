@@ -9,7 +9,7 @@ export function ArticleCard({ post }: ArticleCardProps) {
   return (
     <article className="group relative bg-white dark:bg-gray-900 rounded-xl shadow-sm hover:shadow-md transition-all duration-300 overflow-hidden border border-gray-100 dark:border-gray-800">
       <Link 
-        href={`/${post.frontmatter.category.toLowerCase()}/${post.slug}`} 
+        href={`/${post.slug}`}
         className="block p-6"
       >
         {/* 状态和进度指示器 */}

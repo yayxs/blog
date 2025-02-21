@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import ClientParticles from "@/components/ClientParticles";
 import "./globals.css";
+import { AnimatedGridPattern } from "@/components/magicui/animated-grid-pattern";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -24,12 +25,20 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="zh">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen`}
       >
         <div className="fixed inset-0 -z-10 overflow-hidden">
-          <ClientParticles />
+          <AnimatedGridPattern 
+            width={50}
+            height={50}
+            className="text-blue-500/30 dark:text-blue-400/20"
+            strokeDasharray={10}
+            numSquares={30}
+            duration={3}
+            maxOpacity={0.3}
+          />
         </div>
         <div className="relative z-0">{children}</div>
       </body>
